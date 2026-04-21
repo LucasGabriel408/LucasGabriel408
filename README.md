@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./tropical-green-leaves-background-wallpaper.jpg" width="100%" height="150px" style="object-fit:cover"/>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header)
+
 <h1 align="center">Lucas Bender</h1>
 
 <p align="center">
