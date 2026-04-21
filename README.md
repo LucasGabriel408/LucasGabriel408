@@ -42,6 +42,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasGabriel408&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel408&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
 ### 📫 Contato
 
 <p align="center">
