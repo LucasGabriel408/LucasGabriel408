@@ -71,7 +71,3 @@
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer)
-
-
-
-<p>Saving the Streak</p>
