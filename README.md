@@ -40,20 +40,12 @@
 ### 📌 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na UCS Bento Gonçalves
-- 💼 Ex-estagiário em **Data Science** na Tramontina Multi — Databricks, PySpark, ETL, Power BI
+- 💻 Estágio em **Data Science** na Tramontina Multi
+- 💼 Trabalhando com **Data Science** na Tramontina Central de Administração Ltda
 - 🌐 Foco em **desenvolvimento web** com JavaScript e seus frameworks
 - ☕ Entusiasta de programação — gosto de aprender e expandir horizontes
 - 🚀 Sempre explorando algo novo
 
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasGabriel408&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel408&layout=compact&theme=dark&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=LucasGabriel408&theme=dark&hide_border=true&locale=pt_BR"/>
-</p>
 
 ---
 
